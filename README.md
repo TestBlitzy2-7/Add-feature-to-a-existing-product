@@ -159,3 +159,5 @@ This tutorial implementation can be extended with:
 ## Support
 
 For questions about this tutorial or Backprop integration, please refer to the project documentation or contact the development team.
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/TestBlitzy2-7/Add-feature-to-a-existing-product?utm_source=oss&utm_medium=github&utm_campaign=TestBlitzy2-7%2FAdd-feature-to-a-existing-product&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
